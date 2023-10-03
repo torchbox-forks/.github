@@ -1,6 +1,6 @@
 # Torchbox Forks
 
-`torchbox-forks` contains forks of repositories @torchbox use in some of their applications, where it's become necessary to contribute fixes sooner than the upstream can provide.
+`torchbox-forks` contains forks of repositories [@torchbox](https://github.com/torchbox) use in some of their applications, where it's become necessary to contribute fixes sooner than the upstream can provide.
 
 As we primarily work with open-source applications, we use a lot of community-maintained packages to save us building everything from scratch. While this saves time on up-front development, the same isn't necessarily true for ongoing maintenance, especially as some packages become neglected or abandoned by their original developers over time.
 
